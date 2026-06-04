@@ -1,0 +1,4 @@
+deep-translator==1.11.4
+gTTS==2.5.4
+SpeechRecognition==3.16.1
+pyperclip==1.11.0
