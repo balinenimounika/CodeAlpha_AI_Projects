@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level programming language used for web development, AI, automation, and data science."
+  },
+  {
+    "question": "Who developed Python?",
+    "answer": "Python was created by Guido van Rossum and released in 1991."
+  },
+  {
+    "question": "What is AI?",
+    "answer": "Artificial Intelligence is the simulation of human intelligence by machines."
+  },
+  {
+    "question": "What is ML?",
+    "answer": "Machine Learning is a subset of AI that enables systems to learn from data."
+  },
+  {
+    "question": "What is DL?",
+    "answer": "Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers."
+  },
+  {
+    "question": "What is NLP?",
+    "answer": "Natural Language Processing enables computers to understand and process human language."
+  },
+  {
+    "question": "What is DS?",
+    "answer": "Data Science combines statistics, programming, and domain expertise to analyze data."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a software application that simulates human conversation."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data that can be easily accessed and managed."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL stands for Structured Query Language and is used to manage databases."
+  },
+  {
+    "question": "What is MySQL?",
+    "answer": "MySQL is an open-source relational database management system."
+  },
+  {
+    "question": "What is Java?",
+    "answer": "Java is a popular object-oriented programming language used for building applications."
+  },
+  {
+    "question": "What is JavaScript?",
+    "answer": "JavaScript is a scripting language used to create interactive web pages."
+  },
+  {
+    "question": "What is HTML?",
+    "answer": "HTML stands for HyperText Markup Language and is used to structure web pages."
+  },
+  {
+    "question": "What is CSS?",
+    "answer": "CSS stands for Cascading Style Sheets and is used to style web pages."
+  },
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library used for building user interfaces."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version control system used for tracking code changes."
+  },
+  {
+    "question": "What is GitHub?",
+    "answer": "GitHub is a cloud-based platform for hosting and managing Git repositories."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing services over the internet."
+  },
+  {
+    "question": "What is cybersecurity?",
+    "answer": "Cybersecurity protects systems, networks, and data from digital attacks."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API allows different software applications to communicate with each other."
+  },
+  {
+    "question": "What is software engineering?",
+    "answer": "Software engineering is the process of designing, developing, and maintaining software systems."
+  },
+  {
+    "question": "What is object-oriented programming?",
+    "answer": "Object-oriented programming is a programming paradigm based on objects and classes."
+  },
+  {
+    "question": "What is a function in programming?",
+    "answer": "A function is a reusable block of code that performs a specific task."
+  },
+  {
+    "question": "What is a variable?",
+    "answer": "A variable is a named storage location used to hold data values."
+  },
+  {
+    "question": "What is an algorithm?",
+    "answer": "An algorithm is a step-by-step procedure used to solve a problem."
+  },
+  {
+    "question": "What is data visualization?",
+    "answer": "Data visualization is the graphical representation of information and data."
+  },
+  {
+    "question": "What is big data?",
+    "answer": "Big data refers to extremely large datasets that require advanced processing techniques."
+  },
+  {
+    "question": "What is a neural network?",
+    "answer": "A neural network is a computational model inspired by the human brain."
+  },
+  {
+    "question": "What is computer vision?",
+    "answer": "Computer vision enables machines to interpret and understand visual information."
+  },
+  {
+    "question": "What is generative AI?",
+    "answer": "Generative AI creates new content such as text, images, audio, and code."
+  },
+  {
+    "question": "What is ChatGPT?",
+    "answer": "ChatGPT is an AI-powered conversational chatbot developed by OpenAI."
+  },
+  {
+    "question": "What is Streamlit?",
+    "answer": "Streamlit is a Python framework used for building interactive web applications."
+  },
+  {
+    "question": "What is NLTK?",
+    "answer": "NLTK is a Python library used for natural language processing tasks."
+  },
+  {
+    "question": "What is scikit-learn?",
+    "answer": "Scikit-learn is a Python library used for machine learning and data analysis."
+  }
+]
