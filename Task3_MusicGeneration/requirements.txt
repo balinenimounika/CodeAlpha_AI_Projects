@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+music21
+numpy
+matplotlib
+pretty_midi
+tqdm
